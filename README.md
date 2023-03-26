@@ -1,7 +1,7 @@
  Hello! My name is Lucas Furlong! 👋
 <br />I am currently studying Comp Sci at Davenport University. (4 classes left!!) 📖
 <br />I am looking for work remotely or in the Grand Rapids Metro area. (preferred within 30 miles) 👨‍💼
-<br />I am currently working on learning new things about web development! (React-based Capstone Project) 🌐
+<br />I am currently working on learning new things about web development! (React-based + .NET API/MS Access Capstone Project) 🌐
 <br />Languages I currently have good experience with: 
 - JavaScript
 - HTML
