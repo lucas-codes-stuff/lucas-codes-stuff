@@ -61,8 +61,8 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
 
 Interested in following along as I grow my skills and tackle new challenges?
 
-- [Weekly LeetCode Tracker](path/to/your/weekly-leetcode-tracker.md)
-- [Learning Repository](path/to/your/learning-repo/README.md)
+- [Weekly LeetCode Tracker](https://github.com/lucas-codes-stuff/leetcode-tracker)
+- [Learning Repository](https://github.com/lucas-codes-stuff/learning)
 
 Check them out to see what I’m working on, how I’m improving, and what I’ve been exploring lately!
 
