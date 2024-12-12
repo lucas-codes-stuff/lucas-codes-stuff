@@ -14,7 +14,7 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
 - 🤖 **Learning**: AI/ML (Generative Models, PyTorch, TensorFlow) and System Design  
 - 📚 **Currently Working On**:  
     - **Daily Challenge App**: Generates unique challenges to inspire and engage users, with planned AI features for personalized experiences 🎯  
-    - Small to medium robotics projects 🤖  
+    - Small to medium robotics/AI projects 🤖  
 - 🏆 **Goals**:  
     - Launch an AI-integrated app by **end of 2025**  
     - Learn something **new every day** 📅  
