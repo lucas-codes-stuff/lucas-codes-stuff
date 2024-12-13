@@ -18,7 +18,8 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
 - 🏆 **Goals**:  
     - Launch an AI-integrated app by **end of 2025**  
     - Learn something **new every day** 📅  
-- 🧩 **Interests**: DSA, embedded systems, poetry writing, and learning Japanese 🇯🇵  
+- 🧩 **Interests**: All things software engineering, poetry writing, and learning new languages (currently learning 
+ Japanese!) 🇯🇵  
 
 ---
 
