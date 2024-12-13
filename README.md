@@ -1,6 +1,6 @@
 # 🌟 Lucas | Software Developer & AI Enthusiast  
 
-Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring **AI/ML engineer**. My current focus is on building cool projects, solving algorithms, and learning new things daily! 🚀  
+Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring **AI/ML engineer**. My current focus is on building cool projects, solving LeetCode problems, and learning new things daily! 🚀  
 
 ---
 
