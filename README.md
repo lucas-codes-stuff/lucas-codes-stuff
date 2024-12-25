@@ -71,9 +71,9 @@ Check them out to see what I’m working on, how I’m improving, and what I’v
 
 ## ✨ Fun Facts  
 
-- 💬 I love writing **poetry** 📖, working out 🏋️, and practicing **Jiu-Jitsu**.  
-- 🗂️ Organizing tasks and managing ADHD is a work in progress, but **calendaring helps**! 🗓️  
-- 🎯 My motto: **"Consistency beats intensity."**  
+- 💬 I love writing **poetry** 📖, working out 🏋️, and practicing **Jiu-Jitsu**.
+- I'm a big fan of the Pittsburg Steelers 🏈
+- I am extremely candid and blunt
 
 ---
 
