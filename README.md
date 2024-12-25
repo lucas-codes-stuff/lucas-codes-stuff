@@ -73,7 +73,7 @@ Check them out to see what I’m working on, how I’m improving, and what I’v
 
 - 💬 I love writing **poetry** 📖, working out 🏋️, and practicing **Jiu-Jitsu**.
 - I'm a big fan of the Pittsburg Steelers 🏈
-- I am extremely candid and blunt
+- I was in the Michigan Army National Guard 💂🏼‍♂️
 
 ---
 
