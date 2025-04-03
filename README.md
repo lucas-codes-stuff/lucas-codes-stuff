@@ -15,6 +15,7 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
 - 📚 **Currently Working On**:  
     - **Daily Challenge App**: Generates unique challenges to inspire and engage users, with planned AI features for personalized experiences 🎯  (ON HOLD)
     - **Friendship Swipe App**: Connect with users and have more meaningful conversations! Implementation of "off the app" ideas/tech
+    - **Portfolio**: New portfolio to showcase my upgraded skills :)
 - 🏆 **Goals**:  
     - Launch an AI-integrated app by **end of 2025**  
     - Learn something **new every day** 📅  
