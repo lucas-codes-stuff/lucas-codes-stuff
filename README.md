@@ -11,11 +11,11 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
     - **Frameworks**: `Angular`, `React`, `.NET Core` ⚡  
 - 🌐 **Platforms & Tools**:  
     - Supabase, Azure DevOps, GitHub, Node.js, Firebase, and Capacitor  
-- 🤖 **Learning**: AI/ML (Generative Models, PyTorch, TensorFlow) and System Design  
+- 🤖 **Learning**: React Native, Project Management, and AI/ML Applications
 - 📚 **Currently Working On**:  
     - **Daily Challenge App**: Generates unique challenges to inspire and engage users, with planned AI features for personalized experiences 🎯  (ON HOLD)
     - **Friendship Swipe App**: Connect with users and have more meaningful conversations! Implementation of "off the app" ideas/tech
-    - **Portfolio**: New portfolio to showcase my upgraded skills :)
+    - **LLM Server**: Working on testing some prebuilt hardware as a localized LLM server to help reduce my impact on the environment with other popular providers.
 - 🏆 **Goals**:  
     - Launch an AI-integrated app by **end of 2025**  
     - Learn something **new every day** 📅  
@@ -49,23 +49,9 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
 
 ## 📈 Current Focus  
 
-1. 🧠 **Machine Learning Projects**  
-   - Generative Models 🎨  
-   - Simple Neural Networks 🤖  
-2. 🔧 **AI Deployment & System Design**  
-3. 📚 **Daily Learning & Problem Solving**  
-   - Practicing LeetCode (Data Structures & Algorithms) 🔍  
-
----
-
-## 📚 Track My Progress (ON HOLD RIGHT NOW)
-
-Interested in following along as I grow my skills and tackle new challenges?
-
-- [Weekly LeetCode Tracker](https://github.com/lucas-codes-stuff/leetcode-tracker)
-- [Learning Repository](https://github.com/lucas-codes-stuff/learning)
-
-Check them out to see what I’m working on, how I’m improving, and what I’ve been exploring lately!
+1. 😷 **Work at QGenda!**  
+   - Having fun working with my team and helping reduce burnout for our world scale medical force!
+2. 🔧 **Mobile App Development and Project Management**  
 
 ---
 
