@@ -14,7 +14,7 @@ Hi there 👋! I'm **Lucas**, a passionate **full-stack developer** and aspiring
 - 🤖 **Learning**: React Native, Project Management, and AI/ML Applications
 - 📚 **Currently Working On**:  
     - **Daily Challenge App**: Generates unique challenges to inspire and engage users, with planned AI features for personalized experiences 🎯  (ON HOLD)
-    - **Friendship Swipe App**: Connect with users and have more meaningful conversations! Implementation of "off the app" ideas/tech
+    - **Friendship App**: Connect with users and have more meaningful conversations! Implementation of "off the app" ideas/tech
     - **LLM Server**: Working on testing some prebuilt hardware as a localized LLM server to help reduce my impact on the environment with other popular providers.
 - 🏆 **Goals**:  
     - Launch an AI-integrated app by **end of 2025**  
